@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="generate_0_to_7">
+		<CBX_INST_ENTRY INSTANCE_NAME="|generate_0_to_7|altsyncram:Mux7_rtl_0" CBX_FILE_NAME="altsyncram_4671.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
